@@ -6,7 +6,7 @@ import os
 app = Flask(__name__)
 CORS(app)
 
-GROQ_API_KEY = "YOUR_GROQ_API_KEY"
+GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
 MODEL = "mixtral-8x7b-32768"
 
 @app.route("/chat", methods=["POST"])

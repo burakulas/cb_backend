@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: groq-chatbot-backend
+    runtime: python
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "python app.py"
+    envVars:
+      - key: GROQ_API_KEY
+        value: false

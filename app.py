@@ -12,6 +12,9 @@ MODEL = "mixtral-8x7b-32768"
 @app.route("/chat", methods=["POST"])
 def chat():
     user_message = request.json.get("message")
+
+    print("Received message:", user_message)
+    
     headers = {
         "Authorization": f"Bearer {GROQ_API_KEY}",
         "Content-Type": "application/json"
@@ -27,6 +30,9 @@ def chat():
 
     groq_url = "https://api.groq.com/openai/v1/chat/completions"
     response = requests.post(groq_url, headers=headers, json=payload)
+
+    print("Groq response:", response.text)
+    
     reply = response.json()['choices'][0]['message']['content']
     return jsonify({"reply": reply})
 

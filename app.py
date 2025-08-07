@@ -10,11 +10,13 @@ CORS(app)
 
 # Move these global variables to the top of the file
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
+LYRICS = os.environ.get("LYRICS")
 MODEL = "llama3-70b-8192"
 
 def load_lyrics_context():
-    with open("lyrics.json", "r", encoding="utf-8") as f:
-        data = json.load(f)
+#    with open("lyrics.json", "r", encoding="utf-8") as f:
+    data = json.loads(LYRICS)
+#    data = json.load(f)
     all_lyrics = [song["content"] for song in data["songs"]]
     return "\n\n".join(all_lyrics)
 

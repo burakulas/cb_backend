@@ -15,7 +15,7 @@ MODEL = "llama3-70b-8192"
 
 def load_lyrics_context():
     with open("lyrics.json", "r", encoding="utf-8") as f:
-    data = json.load(f)
+        data = json.load(f)
     all_lyrics = [song["content"] for song in data["songs"]]
     return "\n\n".join(all_lyrics)
 

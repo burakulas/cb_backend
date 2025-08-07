@@ -33,7 +33,14 @@ def chat():
 
     print("Groq response:", response.text)
     
-    reply = response.json()['choices'][0]['message']['content']
+    groq_json = response.json()
+    print("Groq response:", groq_json)
+
+    if 'choices' not in groq_json:
+        # log the error clearly
+        return jsonify({"reply": f"[Groq API error] {groq_json.get('error', {}).get('message', 'Unknown error')}"})
+
+    reply = groq_json['choices'][0]['message']['content']
     return jsonify({"reply": reply})
 
 @app.route("/", methods=["GET"])

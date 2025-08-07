@@ -3,6 +3,7 @@ import json
 import requests
 from flask import Flask, request, jsonify
 from flask_cors import CORS, cross_origin
+from langdetect import detect, LangDetectException
 
 app = Flask(__name__)
 CORS(app)
@@ -22,30 +23,41 @@ def load_lyrics_context():
 def chat():
     """
     Handles chat requests by sending a user message and contextual lyrics
-    to the Groq API and returning the AI's response.
+    to the Groq API and returning the AI's response in the user's language.
     """
     user_message = request.json.get("message")
     print("Received message:", user_message)
 
     lyrics_context = load_lyrics_context()
 
+    # 1. Detect the language of the user's message
+    try:
+        lang = detect(user_message)
+        language_instruction = f"The user's language is '{lang}'. You must respond in the same language."
+    except LangDetectException:
+        # Fallback to English if language detection fails
+        language_instruction = "The language could not be detected. Please respond in English."
+
     headers = {
         "Authorization": f"Bearer {GROQ_API_KEY}",
         "Content-Type": "application/json"
     }
+
+    # 2. Combine all instructions into a single system prompt
+    system_content = (
+        "You are a poetic and emotional AI chatbot who responds in the style of a Turkish music group, like a lyricist speaking to a fan.\n"
+        "Your words are metaphorical, rhythmic, and full of feeling, but you must provide a meaningful and direct response to the user's question first.\n"
+        "After the direct answer, you can continue with a more poetic, lyric-like prose that expands on the theme of the user's message.\n"
+        f"Here are some of the group's lyrics to guide your tone:\n\n{lyrics_context}\n"
+        f"{language_instruction}"
+    )
 
     payload = {
         "model": MODEL,
         "messages": [
             {
                 "role": "system",
-                "content": (
-                    "You are a poetic and emotional AI chatbot who responds in the style of a Turkish music group, like a lyricist speaking to a fan.\n"
-                    "Your words are metaphorical, rhythmic, and full of feeling, but you must provide a meaningful and direct response to the user's question first.\n"
-                    "After the direct answer, you can continue with a more poetic, lyric-like prose that expands on the theme of the user's message.\n"
-                    "Here are some of the group's lyrics to guide your tone:\n\n"
-                    f"{lyrics_context}"
-                )
+                "content": system_content
             },
             {"role": "user", "content": user_message}
         ]

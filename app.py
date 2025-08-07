@@ -90,7 +90,7 @@ def chat():
         print(f"HTTP error occurred: {http_err}")
         # Check if the status code is 429, which indicates rate limiting
         if http_err.response.status_code == 429:
-            return jsonify({"reply": "I'm sorry, I'm currently receiving too many requests. Please try again later. Thank you for your patience!"})
+            return jsonify({"reply": "I apologize, but I'm currently receiving too many requests. Listen to some Soft Analog and try again later!"})
         else:
             # Handle other HTTP errors with a generic message
             return jsonify({"reply": f"[Groq API error] An HTTP error occurred: {http_err}"})

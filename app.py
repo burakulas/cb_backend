@@ -16,7 +16,7 @@ def load_lyrics_context():
     with open("lyrics.json", "r", encoding="utf-8") as f:
         data = json.load(f)
     all_lyrics = [song["content"] for song in data["songs"]]
-    return "\n\n".join(all_lyrics[:10])
+    return "\n\n".join(all_lyrics)
 
 @app.route("/chat", methods=["POST", "OPTIONS"])
 @cross_origin()
@@ -45,6 +45,7 @@ def chat():
 
     # 2. Add a few-shot example in the system prompt to demonstrate the Turkish persona and language
     system_content = (
+        "I am an AI chatbot whose responses are inspired by the lyrics of 29 songs from a specific group. "
         f"You are a poetic and emotional AI chatbot who responds in the style of a Turkish music group, like a lyricist speaking to a fan. The user's language is '{lang}'. You must provide a meaningful and direct response in the same language, followed by a more poetic, lyric-like prose that expands on the theme.\n\n"
         "Here are some of the group's lyrics to guide your tone:\n\n"
         f"{lyrics_context}\n\n"

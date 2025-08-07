@@ -1,0 +1,422 @@
+{
+  "metadata": {
+    "total_songs": 29,
+    "total_segments": 120,
+    "total_words": 3038,
+    "average_words_per_song": 104.8,
+    "songs": [
+      "Sen Yanımda Kal",
+      "Kaybolur",
+      "Boslugun Icinde",
+      "Tanidik Bir Koku",
+      "Bombalar",
+      "Istila",
+      "Ozur Dilerim",
+      "Bir Cirpinti Var",
+      "Ucarim Bu Alemde",
+      "Mesafeler",
+      "Kacardim",
+      "Beni Saran Bi Bosluk",
+      "Tuzak",
+      "Ne Az Ne Fazla",
+      "Misket",
+      "Hatirlarim Seni",
+      "Buraya Uzakta",
+      "Yolculuk",
+      "Gec Vakitler",
+      "Biz Gibiler",
+      "Ne Kadar Uzagim",
+      "Kac",
+      "Kim Gosterir Bana Nasil Olunmali",
+      "Bir Yolu Yok Mu",
+      "Modern Zamanlar",
+      "Adimlar",
+      "Canavar",
+      "Uyan Dibe Inen Aydinlanir",
+      "Dans Illuzyon"
+    ]
+  },
+  "songs": [
+    {
+      "id": "01_sen_yanımda_kal",
+      "title": "Sen Yanımda Kal",
+      "content": "Bir yanın uzaklarda olsa da\nKalsan bu gece\nGüneş doğmasa\nZamanla bazen soğuk olsak da\nSarsan beni\nNe varsa düşünmeden\nSen yanımda kal\nYok bi önemi\nTutsam yine\nDüşerken o ellerini\nSen yanımda kal\nYok bi önemi\nSür bizi yokuşa\nHiç umrumda değil\nSen yanımda kal\nYok bi önemi\nTutsam yine\nDüşerken o ellerini\nSen yanımda kal\nYok bi önemi\nSür bizi yokuşa\nHiç umrumda değil\nBakışlarım kokunla karışırken\nKalsan bu gece\nGüneş doğmasa\nSana çıkar tüm yollarım\nNasıl bi şey bu\nSarsan beni\nNe varsa düşünmeden\nSen yanımda kal\nYok bi önemi\nTutsam yine\nDüşerken o ellerini\nSen yanımda kal\nYok bi önemi\nSür bizi yokuşa\nHiç umrumda değil\nSen yanımda kal\nYok bi önemi\nTutsam yine\nDüşerken o ellerini\nSen yanımda kal\nYok bi önemi\nSür bizi yokuşa\nHiç umrumda değil",
+      "segments": [
+        "Bir yanın uzaklarda olsa da\nKalsan bu gece\nGüneş doğmasa\nZamanla bazen soğuk olsak da\nSarsan beni\nNe varsa düşünmeden\nSen yanımda kal\nYok bi önemi\nTutsam yine\nDüşerken o ellerini\nSen yanımda kal",
+        "Yok bi önemi\nSür bizi yokuşa\nHiç umrumda değil\nSen yanımda kal\nYok bi önemi\nTutsam yine\nDüşerken o ellerini\nSen yanımda kal\nYok bi önemi\nSür bizi yokuşa\nHiç umrumda değil\nBakışlarım kokunla karışırken",
+        "Kalsan bu gece\nGüneş doğmasa\nSana çıkar tüm yollarım\nNasıl bi şey bu\nSarsan beni\nNe varsa düşünmeden\nSen yanımda kal\nYok bi önemi\nTutsam yine\nDüşerken o ellerini\nSen yanımda kal\nYok bi önemi",
+        "Sür bizi yokuşa\nHiç umrumda değil\nSen yanımda kal\nYok bi önemi\nTutsam yine\nDüşerken o ellerini\nSen yanımda kal\nYok bi önemi\nSür bizi yokuşa\nHiç umrumda değil"
+      ],
+      "word_count": 133,
+      "segment_count": 4
+    },
+    {
+      "id": "02_kaybolur",
+      "title": "Kaybolur",
+      "content": "Dur biraz\nYürüdüğün o yolda\nSor biraz\nBastığın toprağa\nHiç durmadan\nAkıp giden su gibi\nGeç kalmadan\nDinlesen kendini\nBu kez değil biraz daha\nHer sonun başı gibi\nUnutulur duygular\nKaybolur bizim gibi\nBu kez değil biraz daha\nHer sonun başı gibi\nUnutulur duygular\nKaybolur bizim gibi\nGeçiyor yorulsak da\nBitiyor zamanımız\nBu kez değil biraz daha\nHer sonun başı gibi\nUnutulur duygular\nKaybolur bizim gibi\nBu kez değil biraz daha\nHer sonun başı gibi\nUnutulur duygular\nKaybolur bizim gibi\nBu kez değil biraz daha\nHer sonun başı gibi\nKaybolur bizim gibi\nBu kez değil biraz daha\nKaybolur bizim gibi\nKaybolur bizim gibi\nKaybolur bizim gibi\nKaybolur",
+      "segments": [
+        "Dur biraz\nYürüdüğün o yolda\nSor biraz\nBastığın toprağa\nHiç durmadan\nAkıp giden su gibi\nGeç kalmadan\nDinlesen kendini\nBu kez değil biraz daha\nHer sonun başı gibi\nUnutulur duygular\nKaybolur bizim gibi",
+        "Bu kez değil biraz daha\nHer sonun başı gibi\nUnutulur duygular\nKaybolur bizim gibi\nGeçiyor yorulsak da\nBitiyor zamanımız\nBu kez değil biraz daha\nHer sonun başı gibi\nUnutulur duygular\nKaybolur bizim gibi",
+        "Bu kez değil biraz daha\nHer sonun başı gibi\nUnutulur duygular\nKaybolur bizim gibi\nBu kez değil biraz daha\nHer sonun başı gibi\nKaybolur bizim gibi\nBu kez değil biraz daha\nKaybolur bizim gibi",
+        "Kaybolur bizim gibi\nKaybolur bizim gibi\nKaybolur"
+      ],
+      "word_count": 107,
+      "segment_count": 4
+    },
+    {
+      "id": "03_boslugun_icinde",
+      "title": "Boslugun Icinde",
+      "content": "Boşluğun içinde\nKendi kendine\nSandığın gerçeği\nSindirdin böylece\nKaybettiğin gelince\nKoştun bilmeden\nUnuttun önceyi\nBaştan her gece\nDüşündün neden bu\nGeldi başıma\nFarkettin gerçeği\nBir kaç kadehle\nKendini bulurken\nGülüp geçerken\nUnuttun gerçeği\nBir kaç bedenle\nHiç olmamış gibi\nHiç olmamış gibi\nHiç olmamış gibi\nHiç olmamış gibi\nBiz bu günde\nDolanıp dururken\nGeç kalmış her şeyi\nİttik köşeye\nBu karışıklıkta\nZamanımız varsa\nGeç kalmış her şeyi\nİttik köşeye\nHiç olmamış gibi\nHiç olmamış gibi\nHiç olmamış gibi\nHiç olmamış gibi\nHiç olmamış gibi\nHiç olmamış gibi\nHiç olmamış gibi\nGeç kalmış her şeyi\nİttik köşeye\nHiç olmamış gibi\nGeç kalmış her şeyi\nİttik köşeye",
+      "segments": [
+        "Boşluğun içinde\nKendi kendine\nSandığın gerçeği\nSindirdin böylece\nKaybettiğin gelince\nKoştun bilmeden\nUnuttun önceyi\nBaştan her gece\nDüşündün neden bu\nGeldi başıma\nFarkettin gerçeği\nBir kaç kadehle",
+        "Kendini bulurken\nGülüp geçerken\nUnuttun gerçeği\nBir kaç bedenle\nHiç olmamış gibi\nHiç olmamış gibi\nHiç olmamış gibi\nHiç olmamış gibi\nBiz bu günde\nDolanıp dururken\nGeç kalmış her şeyi\nİttik köşeye",
+        "Bu karışıklıkta\nZamanımız varsa\nGeç kalmış her şeyi\nİttik köşeye\nHiç olmamış gibi\nHiç olmamış gibi\nHiç olmamış gibi\nHiç olmamış gibi\nHiç olmamış gibi\nHiç olmamış gibi\nHiç olmamış gibi",
+        "Geç kalmış her şeyi\nİttik köşeye\nHiç olmamış gibi\nGeç kalmış her şeyi\nİttik köşeye"
+      ],
+      "word_count": 105,
+      "segment_count": 4
+    },
+    {
+      "id": "04_tanidik_bir_koku",
+      "title": "Tanidik Bir Koku",
+      "content": "Tanıdık bir koku\nTanıdık bir hava burada\nİçim ürperiyor\nDaha ne olabilir acaba?\nBu bir çıkmaz sanki\nİçindeyim, nasıl bir gerçeğin\nNe kadar anlamsız\nİnanmadan, bekledim tersini\nBakamam gözlerine\nDeğişen o yüzüne\nBakamam gözlerine\nDeğişen o yüzüne\nBakamam gözlerine\nDeğişen o yüzüne\nBakamam gözlerine\nDeğişen o yüzüne\nTanımak çok zor\nDağıldı tüm parçaların\nBir düşün artık\nNe kadar yalnız kaldık\nBu bir çıkmaz sanki\nİçindeyim, nasıl bir gerçeğin\nNe kadar anlamsız\nİnanmadan, bekledim tersini\nBakamam gözlerine\nDeğişen o yüzüne\nBakamam gözlerine\nDeğişen o yüzüne\nBakamam gözlerine\nDeğişen o yüzüne\nBakamam gözlerine\nDeğişen o yüzüne",
+      "segments": [
+        "Tanıdık bir koku\nTanıdık bir hava burada\nİçim ürperiyor\nDaha ne olabilir acaba?\nBu bir çıkmaz sanki\nİçindeyim, nasıl bir gerçeğin\nNe kadar anlamsız\nİnanmadan, bekledim tersini\nBakamam gözlerine",
+        "Değişen o yüzüne\nBakamam gözlerine\nDeğişen o yüzüne\nBakamam gözlerine\nDeğişen o yüzüne\nBakamam gözlerine\nDeğişen o yüzüne\nTanımak çok zor\nDağıldı tüm parçaların\nBir düşün artık\nNe kadar yalnız kaldık",
+        "Bu bir çıkmaz sanki\nİçindeyim, nasıl bir gerçeğin\nNe kadar anlamsız\nİnanmadan, bekledim tersini\nBakamam gözlerine\nDeğişen o yüzüne\nBakamam gözlerine\nDeğişen o yüzüne\nBakamam gözlerine\nDeğişen o yüzüne",
+        "Bakamam gözlerine\nDeğişen o yüzüne"
+      ],
+      "word_count": 94,
+      "segment_count": 4
+    },
+    {
+      "id": "05_bombalar",
+      "title": "Bombalar",
+      "content": "Bi' şeyler oluyo', bi' şeyler\nGözlerim kamaşıyo'\nSöyleyemediklerim\nHer gün daha da büyüyo'\nBi' şeyler oluyo', bi' şeyler\nTepemde dönüp duran\nBu sesler kimden\nHesabını sorar\nBi' yarımı bıraktım\nEvinin köşesine\nBizi yaşatsın diye\nBiz olmasak bile\nOdamın içinde bombalar var\nDokunmadan yürü, nereye kadar?\nDüşe düşe\nGöremiyorum dibimi\nBile bile\nUnutuyorum sesini\nDüşe düşe\nGöremiyorum dibimi\nBile bile\nUnutuyorum sesini\nBasıyorum üstüne\nKarmaşasının aklımın\nGerçek dediğimiz\nÖnemsiz şeylerle\nGeldiğimiz o yerler\nPerdelerini kapatıp\nGözlerimizi açınca\nSonu gelir mi beraber?\nOdamın içinde bombalar var\nDokunmadan yürü, nereye kadar?\nDüşe düşe\nGöremiyorum dibimi\nBile bile\nUnutuyorum sesini\nDüşe düşe\nGöremiyorum dibimi\nBile bile\nUnutuyorum sesini\nYine aynı, aynı hislerle bu çemberde\nYine aynı, aynı yerde kaldım\nYine aynı, aynı hislerle bu çemberde",
+      "segments": [
+        "Bi' şeyler oluyo', bi' şeyler\nGözlerim kamaşıyo'\nSöyleyemediklerim\nHer gün daha da büyüyo'\nBi' şeyler oluyo', bi' şeyler\nTepemde dönüp duran\nBu sesler kimden\nHesabını sorar\nBi' yarımı bıraktım",
+        "Evinin köşesine\nBizi yaşatsın diye\nBiz olmasak bile\nOdamın içinde bombalar var\nDokunmadan yürü, nereye kadar?\nDüşe düşe\nGöremiyorum dibimi\nBile bile\nUnutuyorum sesini\nDüşe düşe\nGöremiyorum dibimi",
+        "Bile bile\nUnutuyorum sesini\nBasıyorum üstüne\nKarmaşasının aklımın\nGerçek dediğimiz\nÖnemsiz şeylerle\nGeldiğimiz o yerler\nPerdelerini kapatıp\nGözlerimizi açınca\nSonu gelir mi beraber?",
+        "Odamın içinde bombalar var\nDokunmadan yürü, nereye kadar?\nDüşe düşe\nGöremiyorum dibimi\nBile bile\nUnutuyorum sesini\nDüşe düşe\nGöremiyorum dibimi\nBile bile\nUnutuyorum sesini",
+        "Yine aynı, aynı hislerle bu çemberde\nYine aynı, aynı yerde kaldım\nYine aynı, aynı hislerle bu çemberde"
+      ],
+      "word_count": 121,
+      "segment_count": 5
+    },
+    {
+      "id": "06_istila",
+      "title": "Istila",
+      "content": "Son cümlen, peşimi bırakmıyor.\nO son cümlen, paramparça ediyor.\nBaşladı bu yeni serüven\nBir yok oluş içimde sürüklenen\nKalabalık koca bir yaratık\nNereye dönsem\nSon cümlen, peşimi bırakmıyor.\nO son cümlen, paramparça ediyor.\nAma\nHala içimde\nHepsi içimde\nHala içimde,\nBu bir istila gizlice\nHala içimde\nHepsi içimde\nHala içimde,\nBu bir istila gizlice\nNe yapsam bu hislerle\nLanetliyor beynimi günlerce\nNasıl da değişiyor her şey\nYok oluyoruz gitgide\nSon cümlen, peşimi bırakmıyor.\nO son cümlen, paramparça ediyor.\nSon cümlen, peşimi bırakmıyor.\nO son cümlen, paramparça ediyor.\nAma\nHala içimde\nHepsi içimde\nHala içimde,\nBu bir istila gizlice\nHala içimde\nHepsi içimde\nHala içimde,\nBu bir istila gizlice\nHala içimde\nHepsi içimde\nHala içimde,\nBu bir istila gizlice\nHala içimde\nHepsi içimde\nHala içimde,\nBu bir istila gizlice",
+      "segments": [
+        "Son cümlen, peşimi bırakmıyor.\nO son cümlen, paramparça ediyor.\nBaşladı bu yeni serüven\nBir yok oluş içimde sürüklenen\nKalabalık koca bir yaratık\nNereye dönsem\nSon cümlen, peşimi bırakmıyor.",
+        "O son cümlen, paramparça ediyor.\nAma\nHala içimde\nHepsi içimde\nHala içimde,\nBu bir istila gizlice\nHala içimde\nHepsi içimde\nHala içimde,\nBu bir istila gizlice\nNe yapsam bu hislerle",
+        "Lanetliyor beynimi günlerce\nNasıl da değişiyor her şey\nYok oluyoruz gitgide\nSon cümlen, peşimi bırakmıyor.\nO son cümlen, paramparça ediyor.\nSon cümlen, peşimi bırakmıyor.",
+        "O son cümlen, paramparça ediyor.\nAma\nHala içimde\nHepsi içimde\nHala içimde,\nBu bir istila gizlice\nHala içimde\nHepsi içimde\nHala içimde,\nBu bir istila gizlice\nHala içimde\nHepsi içimde\nHala içimde,",
+        "Bu bir istila gizlice\nHala içimde\nHepsi içimde\nHala içimde,\nBu bir istila gizlice"
+      ],
+      "word_count": 128,
+      "segment_count": 5
+    },
+    {
+      "id": "07_ozur_dilerim",
+      "title": "Ozur Dilerim",
+      "content": "Gel yanıma\nGel bi' otur önce\nİçinde durur\nSaklı kalmış öfke\nÖzür dilerim\nGelmesin o noktaya\nVur bana\nİstersen durmadan\nBu benim olmayan\nKötü bir hatıra\nGörüyorum çok net şekilde\nDünün acısı kalmış içinde\nYüreğin üşümüş karda kışta\nYükü taşırım ben bu yokuşta\nGörüyorum çok net şekilde\nDünün acısı kalmış içinde\nYüreğin üşümüş her bakışta\nYükü taşırım ben bu yokuşta\nVur bana\nİstersen durmadan\nBu benim olmayan\nKötü bir hatıra\nGörüyorum çok net şekilde\nDünün acısı kalmış içinde\nYüreğin üşümüş karda kışta\nYükü taşırım ben bu yokuşta\nGörüyorum çok net şekilde\nDünün acısı kalmış içinde\nYüreğin üşümüş her bakışta\nYükü taşırım ben bu yokuşta",
+      "segments": [
+        "Gel yanıma\nGel bi' otur önce\nİçinde durur\nSaklı kalmış öfke\nÖzür dilerim\nGelmesin o noktaya\nVur bana\nİstersen durmadan\nBu benim olmayan\nKötü bir hatıra\nGörüyorum çok net şekilde",
+        "Dünün acısı kalmış içinde\nYüreğin üşümüş karda kışta\nYükü taşırım ben bu yokuşta\nGörüyorum çok net şekilde\nDünün acısı kalmış içinde\nYüreğin üşümüş her bakışta\nYükü taşırım ben bu yokuşta\nVur bana",
+        "İstersen durmadan\nBu benim olmayan\nKötü bir hatıra\nGörüyorum çok net şekilde\nDünün acısı kalmış içinde\nYüreğin üşümüş karda kışta\nYükü taşırım ben bu yokuşta\nGörüyorum çok net şekilde",
+        "Dünün acısı kalmış içinde\nYüreğin üşümüş her bakışta\nYükü taşırım ben bu yokuşta"
+      ],
+      "word_count": 104,
+      "segment_count": 4
+    },
+    {
+      "id": "08_bir_cirpinti_var",
+      "title": "Bir Cirpinti Var",
+      "content": "Yukarı, daha da yukarı yükselenler\nGökleri delenler\nBu şehirde her taraf telaşe\nÇarparak, omuza çarparak ilerler\netraftaki sokaklar\nBu şehirde devam eder hengâme\nBi' çırpıntı var\nİçimde rahatsız\nDüşünmeden dursam yarına kadar\nBi' çırpıntı var\nİçimde rahatsız\nDüşünmeden dursam yarına kadar\nBi' çırpıntı var\nGünden güne yaklaşıyoruz üst üste\nBu duvarlar bizi korur ne zamanlar\nUzaktan izler bizi diğerleri\nDüşünmez kimse her gün neden uyanır\nBıkkın bir endişeyle\nBu şehirde devam eder telaşe\nBi' çırpıntı var\nİçimde rahatsız\nDüşünmeden dursam yarına kadar\nBi' çırpıntı var\nİçimde rahatsız\nDüşünmeden dursam yarına kadar\nBi' çırpıntı var\nBi' çırpıntı var\nBi' çırpıntı var içimde\nBi' çırpıntı var\nBi' çırpıntı var içimde\nBi' çırpıntı var",
+      "segments": [
+        "Yukarı, daha da yukarı yükselenler\nGökleri delenler\nBu şehirde her taraf telaşe\nÇarparak, omuza çarparak ilerler\netraftaki sokaklar\nBu şehirde devam eder hengâme\nBi' çırpıntı var\nİçimde rahatsız",
+        "Düşünmeden dursam yarına kadar\nBi' çırpıntı var\nİçimde rahatsız\nDüşünmeden dursam yarına kadar\nBi' çırpıntı var\nGünden güne yaklaşıyoruz üst üste\nBu duvarlar bizi korur ne zamanlar",
+        "Uzaktan izler bizi diğerleri\nDüşünmez kimse her gün neden uyanır\nBıkkın bir endişeyle\nBu şehirde devam eder telaşe\nBi' çırpıntı var\nİçimde rahatsız\nDüşünmeden dursam yarına kadar\nBi' çırpıntı var",
+        "İçimde rahatsız\nDüşünmeden dursam yarına kadar\nBi' çırpıntı var\nBi' çırpıntı var\nBi' çırpıntı var içimde\nBi' çırpıntı var\nBi' çırpıntı var içimde\nBi' çırpıntı var"
+      ],
+      "word_count": 111,
+      "segment_count": 4
+    },
+    {
+      "id": "09_ucarim_bu_alemde",
+      "title": "Ucarim Bu Alemde",
+      "content": "Yanıyor pencereler\nHayallere dalmışken\nBu yollarda ki sisler\nÇoğaltır ışıkları\nKapattım gözlerimi\nSabaha kadar\nUnuturum her şeyi\nSen gidene kadar\nUçarım bu alemde\nKırsan da kanadımı\nSonunum bu da zaptet\nTutamam şu aklımı\nÜstüme geliyorlar\nKendimin peşindeyken\nGiderir sanıyorlar\nDerdimi dermanını\nKapattım gözlerimi\nSabaha kadar\nUnuturum her şeyi\nSen gidene kadar\nKapattım gözlerimi\nSabaha kadar\nUnuturum her şeyi\nBu dönme dene kadar\nUçarım bu alemde\nKırsan da kanadımı\nSonunum bu da zaptet\nTutamam şu aklımı\nUçarım bu alemde\nKırsan da kanadımı\nSonunum bu da zaptet\nTutamam şu aklımı\nKırsan da kanadımı\nTutamam şu aklımı",
+      "segments": [
+        "Yanıyor pencereler\nHayallere dalmışken\nBu yollarda ki sisler\nÇoğaltır ışıkları\nKapattım gözlerimi\nSabaha kadar\nUnuturum her şeyi\nSen gidene kadar\nUçarım bu alemde\nKırsan da kanadımı",
+        "Sonunum bu da zaptet\nTutamam şu aklımı\nÜstüme geliyorlar\nKendimin peşindeyken\nGiderir sanıyorlar\nDerdimi dermanını\nKapattım gözlerimi\nSabaha kadar\nUnuturum her şeyi\nSen gidene kadar\nKapattım gözlerimi",
+        "Sabaha kadar\nUnuturum her şeyi\nBu dönme dene kadar\nUçarım bu alemde\nKırsan da kanadımı\nSonunum bu da zaptet\nTutamam şu aklımı\nUçarım bu alemde\nKırsan da kanadımı\nSonunum bu da zaptet\nTutamam şu aklımı",
+        "Kırsan da kanadımı\nTutamam şu aklımı"
+      ],
+      "word_count": 94,
+      "segment_count": 4
+    },
+    {
+      "id": "10_mesafeler",
+      "title": "Mesafeler",
+      "content": "Hissiz ve umursamaz ayaklarım\nGiderken uzar yolum bilmeden\nAlıştığım bazı şeyler var\nYüzüm bile dokunmaz rüzgâra\nSanki benim\nPeşimden tutunmuş gibi\nYanımda binlercesi\nMesafeler ben yapan beni\nSanki benim\nPeşimden tutunmuş gibi\nYanımda binlercesi\nMesafeler ben yapan beni\nİnanıyo' hiç görmeden, bu neyin nesi?\nKovalıyo' sen kaçtıkça düşüncesi\nHep söylüyo' istenileni dilimiz\nSanki benim\nPeşimden tutunmuş gibi\nYanımda binlercesi\nMesafeler ben yapan beni\nSanki benim\nPeşimden tutunmuş gibi\nYanımda binlercesi\nMesafeler ben yapan beni",
+      "segments": [
+        "Hissiz ve umursamaz ayaklarım\nGiderken uzar yolum bilmeden\nAlıştığım bazı şeyler var\nYüzüm bile dokunmaz rüzgâra\nSanki benim\nPeşimden tutunmuş gibi\nYanımda binlercesi\nMesafeler ben yapan beni",
+        "Sanki benim\nPeşimden tutunmuş gibi\nYanımda binlercesi\nMesafeler ben yapan beni\nİnanıyo' hiç görmeden, bu neyin nesi?\nKovalıyo' sen kaçtıkça düşüncesi\nHep söylüyo' istenileni dilimiz\nSanki benim",
+        "Peşimden tutunmuş gibi\nYanımda binlercesi\nMesafeler ben yapan beni\nSanki benim\nPeşimden tutunmuş gibi\nYanımda binlercesi\nMesafeler ben yapan beni"
+      ],
+      "word_count": 74,
+      "segment_count": 3
+    },
+    {
+      "id": "11_kacardim",
+      "title": "Kacardim",
+      "content": "Seninle çözerdik\nUnuturduk dünyayı\nUçsuz bucaksız\nKonuşurduk uzun uzun\nDağılırdık birbirimize\nHer defa kaçardım\nBu gerçekten\nSeninle bi' yerde\nGülümserken\nÖzgürce\nArasında dünyanın\nPaketlenmiş duyguların\nHep sana uzaklaştım\nHazırlıklı değilim daha\nZorundayım yaşamaya\nHer defa kaçardım\nBu gerçekten\nSeninle bi' yerde\nGülümserken\nÖzgürce",
+      "segments": [
+        "Seninle çözerdik\nUnuturduk dünyayı\nUçsuz bucaksız\nKonuşurduk uzun uzun\nDağılırdık birbirimize\nHer defa kaçardım\nBu gerçekten\nSeninle bi' yerde\nGülümserken\nÖzgürce\nArasında dünyanın",
+        "Paketlenmiş duyguların\nHep sana uzaklaştım\nHazırlıklı değilim daha\nZorundayım yaşamaya\nHer defa kaçardım\nBu gerçekten\nSeninle bi' yerde\nGülümserken\nÖzgürce"
+      ],
+      "word_count": 43,
+      "segment_count": 2
+    },
+    {
+      "id": "12_beni_saran_bi_bosluk",
+      "title": "Beni Saran Bi Bosluk",
+      "content": "Dokunma sakın bana\nHiçbi' şey hatırlatma\nVar mısın yok yere ağlamaya?\nKızgınım hâlâ\nHepsi aklımda\nVar mısın son kez bakışmaya?\nBi' çıkış var sandım\nCanım yanmaz sandım\nBi' ben mi inanmadım illüzyona?\nTek başına\nTek başına\nBu boşlukta\nTek başına\nKal\nBilebilir miydin olanları?\nHasarsız kazaları\nBüyütmüşüm sende gördüm sandığım tüm\nHataları\nArtık bu yalnızlığın gereği\nMutsuzluğun zaferi\nBeni saran bi' boşluk bu\nKötünün daha beteri\nTek başına\nTek başına\nBu boşlukta\nTek başına\nTek başına\nTek başına\nBu boşlukta\nTek başına\nBu beni saran bi' boşluk",
+      "segments": [
+        "Dokunma sakın bana\nHiçbi' şey hatırlatma\nVar mısın yok yere ağlamaya?\nKızgınım hâlâ\nHepsi aklımda\nVar mısın son kez bakışmaya?\nBi' çıkış var sandım\nCanım yanmaz sandım\nBi' ben mi inanmadım illüzyona?",
+        "Tek başına\nTek başına\nBu boşlukta\nTek başına\nKal\nBilebilir miydin olanları?\nHasarsız kazaları\nBüyütmüşüm sende gördüm sandığım tüm\nHataları\nArtık bu yalnızlığın gereği\nMutsuzluğun zaferi",
+        "Beni saran bi' boşluk bu\nKötünün daha beteri\nTek başına\nTek başına\nBu boşlukta\nTek başına\nTek başına\nTek başına\nBu boşlukta\nTek başına\nBu beni saran bi' boşluk"
+      ],
+      "word_count": 87,
+      "segment_count": 3
+    },
+    {
+      "id": "13_tuzak",
+      "title": "Tuzak",
+      "content": "Kurdum artık kurabildiğim kadar\nYoruldum binbir türlü dolabından\nAldın, oynattın beni avucunda\nOlanları biraz sen de hatırla\nGirdin gizlice şu kuru kafama\nGözlerin oynadı hep, kovalama\nDolaştın usul usul inadına\nGerek yok ört, pas, numaraya\nSal, beni bırak\nSözlerin bıçak\nYüzüme bak\nBu bi' tuzak\nTuzak\nBu bi' tuzak\nTuzak\nSal, beni bırak\nSözlerin bıçak\nYüzüme bak\nBu bi' tuzak\nTuzak\nBu bi' tuzak\nTuzak\nTükettim hayatı yaşamaktansa\nBeslediğim bu onca canavarla\nSana tuttuğum aynalar ne fayda?\nKafesler yarattın sen de bana\nNeyim kaldı geriye ellerimde?\nSıkıştım senin bu labirentinde\nGözlerim nemli değil namlu ama\nGiydim ateşten gömlek (yana yana)\nSal, beni bırak\nSözlerin bıçak\nYüzüme bak\nBu bi' tuzak\nTuzak\nBu bi' tuzak\nTuzak\nSal, beni bırak\nSözlerin bıçak\nYüzüme bak\nBu bi' tuzak\nTuzak\nBu bi' tuzak\nTuzak",
+      "segments": [
+        "Kurdum artık kurabildiğim kadar\nYoruldum binbir türlü dolabından\nAldın, oynattın beni avucunda\nOlanları biraz sen de hatırla\nGirdin gizlice şu kuru kafama\nGözlerin oynadı hep, kovalama",
+        "Dolaştın usul usul inadına\nGerek yok ört, pas, numaraya\nSal, beni bırak\nSözlerin bıçak\nYüzüme bak\nBu bi' tuzak\nTuzak\nBu bi' tuzak\nTuzak\nSal, beni bırak\nSözlerin bıçak\nYüzüme bak\nBu bi' tuzak\nTuzak",
+        "Bu bi' tuzak\nTuzak\nTükettim hayatı yaşamaktansa\nBeslediğim bu onca canavarla\nSana tuttuğum aynalar ne fayda?\nKafesler yarattın sen de bana\nNeyim kaldı geriye ellerimde?\nSıkıştım senin bu labirentinde",
+        "Gözlerim nemli değil namlu ama\nGiydim ateşten gömlek (yana yana)\nSal, beni bırak\nSözlerin bıçak\nYüzüme bak\nBu bi' tuzak\nTuzak\nBu bi' tuzak\nTuzak\nSal, beni bırak\nSözlerin bıçak\nYüzüme bak\nBu bi' tuzak",
+        "Tuzak\nBu bi' tuzak\nTuzak"
+      ],
+      "word_count": 130,
+      "segment_count": 5
+    },
+    {
+      "id": "14_ne_az_ne_fazla",
+      "title": "Ne Az Ne Fazla",
+      "content": "Baktım kendime kalan aynadan\nKim içmiş bu kadar bana sormadan\nDediler bana neyin var bugün diye\nBulandı midem çok dans ettim diye\nSokağa çıkarken aklımda bin soru\nDüşüncelerimin gelmiyordu sonu\nHalimi görenler, yanımdan geçenler\nTelaşın içinde hep aynı kişiler\nNe az ne fazla\nGördüğüm rüya\nZaman geçerken\nDöndüm hep başa\nYitip giderken\nAcı çekerken\nBana sormadan\nDöndü bu dünya\nBu artan gariplik her günün doğuşunda\nKorkumu unutturur bana en sonunda\nKayıp gidenler farklı renkteydiler\nSeyrettiğim filmler geçmişim gibiler\nNe az ne fazla\nGördüğüm rüya\nZaman geçerken\nDöndüm hep başa\nYitip giderken\nAcı çekerken\nBana sormadan\nDöndü bu dünya",
+      "segments": [
+        "Baktım kendime kalan aynadan\nKim içmiş bu kadar bana sormadan\nDediler bana neyin var bugün diye\nBulandı midem çok dans ettim diye\nSokağa çıkarken aklımda bin soru\nDüşüncelerimin gelmiyordu sonu",
+        "Halimi görenler, yanımdan geçenler\nTelaşın içinde hep aynı kişiler\nNe az ne fazla\nGördüğüm rüya\nZaman geçerken\nDöndüm hep başa\nYitip giderken\nAcı çekerken\nBana sormadan\nDöndü bu dünya",
+        "Bu artan gariplik her günün doğuşunda\nKorkumu unutturur bana en sonunda\nKayıp gidenler farklı renkteydiler\nSeyrettiğim filmler geçmişim gibiler\nNe az ne fazla\nGördüğüm rüya\nZaman geçerken",
+        "Döndüm hep başa\nYitip giderken\nAcı çekerken\nBana sormadan\nDöndü bu dünya"
+      ],
+      "word_count": 98,
+      "segment_count": 4
+    },
+    {
+      "id": "15_misket",
+      "title": "Misket",
+      "content": "Güvercin uçuverdi\nKanadın' açıverdi\nYâr, yandım aman, aman, ayrılamam\nElin oğlu değil mi? Aman, aman\nSevdi de kaçıverdi\nA benim aslan yârim\nDuvara yaslan, yârim\nDuvar cefa çekemez\nSineme yaslan, yârim\nA benim hacı yârim\nBaşımın tacı yârim\nEller bana acımaz\nSen bari acı, yârim\nDaracık daracık sokaklar\nYârim misket yuvarlar\nPul pul olsun dökülsün\nOnu öpen dudaklar\nOy, farfara, farfara\nAteş düştü şalvara\nAğzım dilim kurudu\nSana yalvara yalvara\nGüvercinim uyur mu?\nÇağırsam uyanır mı?\nYâr, yandım aman, aman, ayrılamam\nYâr orada, ben bur'da, aman, aman\nBuna can dayanır mı?\nA benim aslan yârim\nDuvara yaslan, yârim\nDuvar cefa çekemez\nSineme yaslan, yârim\nDaracık daracık sokaklar\nYârim misket yuvarlar\nPul pul olsun dökülsün\nOnu öpen dudaklar\nOy, farfara, farfara\nAteş düştü şalvara\nAğzım dilim kurudu\nSana yalvara yalvara",
+      "segments": [
+        "Güvercin uçuverdi\nKanadın' açıverdi\nYâr, yandım aman, aman, ayrılamam\nElin oğlu değil mi? Aman, aman\nSevdi de kaçıverdi\nA benim aslan yârim\nDuvara yaslan, yârim\nDuvar cefa çekemez\nSineme yaslan, yârim",
+        "A benim hacı yârim\nBaşımın tacı yârim\nEller bana acımaz\nSen bari acı, yârim\nDaracık daracık sokaklar\nYârim misket yuvarlar\nPul pul olsun dökülsün\nOnu öpen dudaklar\nOy, farfara, farfara",
+        "Ateş düştü şalvara\nAğzım dilim kurudu\nSana yalvara yalvara\nGüvercinim uyur mu?\nÇağırsam uyanır mı?\nYâr, yandım aman, aman, ayrılamam\nYâr orada, ben bur'da, aman, aman\nBuna can dayanır mı?",
+        "A benim aslan yârim\nDuvara yaslan, yârim\nDuvar cefa çekemez\nSineme yaslan, yârim\nDaracık daracık sokaklar\nYârim misket yuvarlar\nPul pul olsun dökülsün\nOnu öpen dudaklar\nOy, farfara, farfara",
+        "Ateş düştü şalvara\nAğzım dilim kurudu\nSana yalvara yalvara"
+      ],
+      "word_count": 129,
+      "segment_count": 5
+    },
+    {
+      "id": "16_hatirlarim_seni",
+      "title": "Hatirlarim Seni",
+      "content": "Fırtınalar ardından\nBir başıma ben arta kalan\nÖnceden yanındayken\nSöyle bana söyle kimdim ben\nKeşfettiğim yerler, en kaçtığım yüzler\nDeğil eskisi gibi\nBelki uzaklaştım, belki çok alıştım\nYine de bul beni\nKeşke nasıl anlasam\nHatırladım seni\nBıraktığın gibi\nBeni yine dağıtsan\nHatırlarım seni\nBıraktığım gibi\nNe uykuda, ne uyanık\nSakındım bu oyunun kuralından\nDurulsam\nBu yangından düşlerinde\nKeşfettiğim yerler, en kaçtığım yüzler\nDeğil eskisi gibi\nBelki uzaklaştım, belki çok alıştım\nYine de bul beni\nKeşke nasıl anlasam\nHatırladım seni\nBıraktığın gibi\nBeni yine dağıtsan\nHatırlarım seni\nBıraktığım gibi\nKeşke nasıl anlasam\nHatırladım seni\nBıraktığın gibi\nBeni yine dağıtsan\nHatırlarım seni\nBıraktığım gibi",
+      "segments": [
+        "Fırtınalar ardından\nBir başıma ben arta kalan\nÖnceden yanındayken\nSöyle bana söyle kimdim ben\nKeşfettiğim yerler, en kaçtığım yüzler\nDeğil eskisi gibi\nBelki uzaklaştım, belki çok alıştım",
+        "Yine de bul beni\nKeşke nasıl anlasam\nHatırladım seni\nBıraktığın gibi\nBeni yine dağıtsan\nHatırlarım seni\nBıraktığım gibi\nNe uykuda, ne uyanık\nSakındım bu oyunun kuralından\nDurulsam",
+        "Bu yangından düşlerinde\nKeşfettiğim yerler, en kaçtığım yüzler\nDeğil eskisi gibi\nBelki uzaklaştım, belki çok alıştım\nYine de bul beni\nKeşke nasıl anlasam\nHatırladım seni\nBıraktığın gibi",
+        "Beni yine dağıtsan\nHatırlarım seni\nBıraktığım gibi\nKeşke nasıl anlasam\nHatırladım seni\nBıraktığın gibi\nBeni yine dağıtsan\nHatırlarım seni\nBıraktığım gibi"
+      ],
+      "word_count": 102,
+      "segment_count": 4
+    },
+    {
+      "id": "17_buraya_uzakta",
+      "title": "Buraya Uzakta",
+      "content": "Her geçen gün (her geçen gün)\nAradığın aklında\nHer biten dün (her biten dün)\nUnutulmuş ısrarla\nPişman olmaktan\nKorkup kaçınca\nYalnız kalmaktan\nBıkıp bıkıp alışınca\nBuraya uzakta\nKurduğumuz hayaller\nEninde sonunda\nAşılacak engeller\nBuraya uzakta\nKurduğumuz hayaller\nEninde sonunda\nAşılacak engeller\nElindekinin öbür yüzü\nGizlice orada bekler\nBize bakan bu gökyüzü\nÜstümüzden güler geçer\nBuraya uzakta\nKurduğumuz hayaller\nEninde sonunda\nAşılacak engeller\nBuraya uzakta\nKurduğumuz hayaller\nEninde sonunda\nAşılacak engeller",
+      "segments": [
+        "Her geçen gün (her geçen gün)\nAradığın aklında\nHer biten dün (her biten dün)\nUnutulmuş ısrarla\nPişman olmaktan\nKorkup kaçınca\nYalnız kalmaktan\nBıkıp bıkıp alışınca\nBuraya uzakta\nKurduğumuz hayaller",
+        "Eninde sonunda\nAşılacak engeller\nBuraya uzakta\nKurduğumuz hayaller\nEninde sonunda\nAşılacak engeller\nElindekinin öbür yüzü\nGizlice orada bekler\nBize bakan bu gökyüzü\nÜstümüzden güler geçer\nBuraya uzakta",
+        "Kurduğumuz hayaller\nEninde sonunda\nAşılacak engeller\nBuraya uzakta\nKurduğumuz hayaller\nEninde sonunda\nAşılacak engeller"
+      ],
+      "word_count": 70,
+      "segment_count": 3
+    },
+    {
+      "id": "18_yolculuk",
+      "title": "Yolculuk",
+      "content": "Hayat deneyimlemektir\nÖnemli olan bi' yerden bi' yere varmak değil\nBu yolculukta yaşanılanlardır\nHer gün gitmek istediğimiz yere daha hızlı gidiyor\nGörmek istediklerimizi daha hızlı görüyor\nHer şey hemen olsun istiyor\nHedefe ulaşınca da yenisini istiyoruz\nBu hız içinde herkes sürekli bi' şeyler kovalıyor\nVe bi' şeyler kaçırıyo' sanki\nYeni terimler duymaya başlıyorum\nYolculuğu reddettiğim zaman\nBaşlangıç ve bitiş noktam aynı yere dönüşüyor\nYani bi' şeyleri deneyimlemeye fırsat vermediğimde\nDeğişimi yaşayamıyorum\nBen de bundan korkuyorum\nMesafeleri es geçersem yolculuğu yok ederim\nHayatın anlamı anı deneyimlemek\nVe deneyimlemek de onu yaşamaktır belki",
+      "segments": [
+        "Hayat deneyimlemektir\nÖnemli olan bi' yerden bi' yere varmak değil\nBu yolculukta yaşanılanlardır\nHer gün gitmek istediğimiz yere daha hızlı gidiyor\nGörmek istediklerimizi daha hızlı görüyor",
+        "Her şey hemen olsun istiyor\nHedefe ulaşınca da yenisini istiyoruz\nBu hız içinde herkes sürekli bi' şeyler kovalıyor\nVe bi' şeyler kaçırıyo' sanki\nYeni terimler duymaya başlıyorum",
+        "Yolculuğu reddettiğim zaman\nBaşlangıç ve bitiş noktam aynı yere dönüşüyor\nYani bi' şeyleri deneyimlemeye fırsat vermediğimde\nDeğişimi yaşayamıyorum\nBen de bundan korkuyorum",
+        "Mesafeleri es geçersem yolculuğu yok ederim\nHayatın anlamı anı deneyimlemek\nVe deneyimlemek de onu yaşamaktır belki"
+      ],
+      "word_count": 91,
+      "segment_count": 4
+    },
+    {
+      "id": "19_gec_vakitler",
+      "title": "Gec Vakitler",
+      "content": "Yanımdan geçen birkaç insan var\nHep sağda hep solda üzerimde bakışlar\nBekledim ne zamandır bu kaldırımda\nAkan su sıçradı üstüme her basışımda\nBeni de al\nYarın olmadan\nBeni de al\nYok olalım buradan\nSanki gözleri kapalı buradaki herkesin\nDinlemiyor seni beni kulağı duymuyor kimsenin\nYolun sonu var ve bulanık\nBu saatte kaç oda aydınlık?\nBeni de al\nYarın olmadan\nBeni de al\nYok olalım buradan",
+      "segments": [
+        "Yanımdan geçen birkaç insan var\nHep sağda hep solda üzerimde bakışlar\nBekledim ne zamandır bu kaldırımda\nAkan su sıçradı üstüme her basışımda\nBeni de al\nYarın olmadan\nBeni de al\nYok olalım buradan",
+        "Sanki gözleri kapalı buradaki herkesin\nDinlemiyor seni beni kulağı duymuyor kimsenin\nYolun sonu var ve bulanık\nBu saatte kaç oda aydınlık?\nBeni de al\nYarın olmadan\nBeni de al\nYok olalım buradan"
+      ],
+      "word_count": 65,
+      "segment_count": 2
+    },
+    {
+      "id": "20_biz_gibiler",
+      "title": "Biz Gibiler",
+      "content": "Kumlar erirken\nGüneş çekti ellerini\nRüzgar fısıldarken\nTam zamanı beklemenin\nSallar uçtuğunda yeniden\nMartılar katılacak aramıza\nDuymaz sesimizi maviler\nKaçıyorlar artık yanımızdan\nGeride kalan çayır çimen\nAsıl onlardı nefes veren\nYola koyulan umut eden\nSebep arayan biz gibiler\nGeride kalan çayır çimen\nAsıl onlardı nefes veren\nYola koyulan umut eden\nSebep arayan biz gibiler\nSordukça sorar\nBildikçe istemezsin\nNeyin, nasıl döndüğünü\nBuldukça arar\nHiç göremezsin\nDünün söndüğünü\nGeride kalan çayır çimen\nAsıl onlardı nefes veren\nYola koyulan umut eden\nSebep arayan biz gibiler\nGeride kalan çayır çimen\nAsıl onlardı nefes veren\nYola koyulan umut eden\nSebep arayan biz gibiler\nGeride kalan çayır çimen\nAsıl onlardı nefes veren\nYola koyulan umut eden\nSebep arayan biz gibiler\nGeride kalan çayır çimen\nAsıl onlardı nefes veren\nYola koyulan umut eden\nSebep arayan biz gibiler",
+      "segments": [
+        "Kumlar erirken\nGüneş çekti ellerini\nRüzgar fısıldarken\nTam zamanı beklemenin\nSallar uçtuğunda yeniden\nMartılar katılacak aramıza\nDuymaz sesimizi maviler\nKaçıyorlar artık yanımızdan",
+        "Geride kalan çayır çimen\nAsıl onlardı nefes veren\nYola koyulan umut eden\nSebep arayan biz gibiler\nGeride kalan çayır çimen\nAsıl onlardı nefes veren\nYola koyulan umut eden\nSebep arayan biz gibiler",
+        "Sordukça sorar\nBildikçe istemezsin\nNeyin, nasıl döndüğünü\nBuldukça arar\nHiç göremezsin\nDünün söndüğünü\nGeride kalan çayır çimen\nAsıl onlardı nefes veren\nYola koyulan umut eden\nSebep arayan biz gibiler",
+        "Geride kalan çayır çimen\nAsıl onlardı nefes veren\nYola koyulan umut eden\nSebep arayan biz gibiler\nGeride kalan çayır çimen\nAsıl onlardı nefes veren\nYola koyulan umut eden\nSebep arayan biz gibiler",
+        "Geride kalan çayır çimen\nAsıl onlardı nefes veren\nYola koyulan umut eden\nSebep arayan biz gibiler"
+      ],
+      "word_count": 131,
+      "segment_count": 5
+    },
+    {
+      "id": "21_ne_kadar_uzagim",
+      "title": "Ne Kadar Uzagim",
+      "content": "Ne kadar uzağım kendime sana yakınken\nNasıl değişir bu rüya başladığımız o yerden\nGeri dönüyor bir sonsuzluktan\nAklıma sinsice\nTakılanlar binbir parçayla\nEtrafımı sarıyor\nBeni nereye götürüyor\nZihnim bu histen kaçamıyor\nKısılmışız sanki derinlerde\nNe kadar uzağım kendime sana yakınken\nNasıl değişir bu rüya, başladığımız o yerden\nNe kadar uzağım kendime sana yakınken\nNasıl değişir bu rüya, kaldığımız o yerden\nBindi üst üste bir anda zaman durdu\nİçimde umarsız çarpan bu dalgalar\nKapladı gözlerimi yapayalnız bir his\nSanki evrenin başka bir yerinde\nFarkında olmadan başlıyorum baştan\nUnuttum sandığım kendimle bu dansa\nNe kadar uzağım kendime sana yakınken\nNasıl değişir bu rüya, başladığımız o yerden\nNe kadar uzağım kendime sana yakınken\nNasıl değişir bu rüya, kaldığımız o yerden",
+      "segments": [
+        "Ne kadar uzağım kendime sana yakınken\nNasıl değişir bu rüya başladığımız o yerden\nGeri dönüyor bir sonsuzluktan\nAklıma sinsice\nTakılanlar binbir parçayla\nEtrafımı sarıyor\nBeni nereye götürüyor",
+        "Zihnim bu histen kaçamıyor\nKısılmışız sanki derinlerde\nNe kadar uzağım kendime sana yakınken\nNasıl değişir bu rüya, başladığımız o yerden\nNe kadar uzağım kendime sana yakınken",
+        "Nasıl değişir bu rüya, kaldığımız o yerden\nBindi üst üste bir anda zaman durdu\nİçimde umarsız çarpan bu dalgalar\nKapladı gözlerimi yapayalnız bir his\nSanki evrenin başka bir yerinde",
+        "Farkında olmadan başlıyorum baştan\nUnuttum sandığım kendimle bu dansa\nNe kadar uzağım kendime sana yakınken\nNasıl değişir bu rüya, başladığımız o yerden\nNe kadar uzağım kendime sana yakınken",
+        "Nasıl değişir bu rüya, kaldığımız o yerden"
+      ],
+      "word_count": 117,
+      "segment_count": 5
+    },
+    {
+      "id": "22_kac",
+      "title": "Kac",
+      "content": "Kimse anlamadı\nBi' anda neler yaşandı\nDünyam tepetaklak\nKurtulmak imkansız mı? (Kaç!)\nKulakların duymaz (Kaç!)\nNe kadar konuşsam da\nKoşsam sırtımdaki nefesten\nKorkumdan uzağa\nKaç kaçabilirsen\nUzaklaşabilirsen\nArkana bile dönüp bakmadan\nParanoya seni kandırmadan\nKaç kaçabilirsen\nUzaklaşabilirsen\nArkana bile dönüp bakmadan\nParanoya seni kandırmadan\nKalınca baş başa\nDüğümler ortada\nDokunmak istemez\nKalır çözülmeden\nÇare yok başka\nKabul etmez dünya\nOlduğum gibi\nDüşlediğim gibi\nKalınca baş başa\nBir evren ortada\nYakıp kül ettik\nBinlerce alkışla\nÇare yok başka\nKabul etmez dünya\nOlduğum gibi\nDüşlediğim gibi\nKaç kaçabilirsen\nUzaklaşabilirsen\nArkana bile dönüp bakmadan\nParanoya seni kandırmadan\nKaç kaçabilirsen\nUzaklaşabilirsen\nArkana bile dönüp bakmadan\nParanoya sеni kandırmadan",
+      "segments": [
+        "Kimse anlamadı\nBi' anda neler yaşandı\nDünyam tepetaklak\nKurtulmak imkansız mı? (Kaç!)\nKulakların duymaz (Kaç!)\nNe kadar konuşsam da\nKoşsam sırtımdaki nefesten\nKorkumdan uzağa\nKaç kaçabilirsen",
+        "Uzaklaşabilirsen\nArkana bile dönüp bakmadan\nParanoya seni kandırmadan\nKaç kaçabilirsen\nUzaklaşabilirsen\nArkana bile dönüp bakmadan\nParanoya seni kandırmadan\nKalınca baş başa\nDüğümler ortada",
+        "Dokunmak istemez\nKalır çözülmeden\nÇare yok başka\nKabul etmez dünya\nOlduğum gibi\nDüşlediğim gibi\nKalınca baş başa\nBir evren ortada\nYakıp kül ettik\nBinlerce alkışla\nÇare yok başka\nKabul etmez dünya",
+        "Olduğum gibi\nDüşlediğim gibi\nKaç kaçabilirsen\nUzaklaşabilirsen\nArkana bile dönüp bakmadan\nParanoya seni kandırmadan\nKaç kaçabilirsen\nUzaklaşabilirsen\nArkana bile dönüp bakmadan",
+        "Paranoya sеni kandırmadan"
+      ],
+      "word_count": 104,
+      "segment_count": 5
+    },
+    {
+      "id": "23_kim_gosterir_bana_nasil_olunmali",
+      "title": "Kim Gosterir Bana Nasil Olunmali",
+      "content": "Duruyorum salonumun ortasında\nHerkesin karşısında\nAynı cümle girip çıkıyo'\nDefalarca kulağımdan\nBenim olmayan da benden alınınca\nUyuşuyor cesaretim\nElim kolum bağlanıyo'\nDuvarların arkasında\nKim gösterir bana nasıl olunmalı?\nAnlaşılmak için\nBağırmamak için burada\nKim gösterir bana nasıl olunmalı?\nBiri olmak için\nDuyabilmek için kendimi\nDönüp duran, kendini yiyen\nBu düzenin sancısıyla\nBüyüyoruz gün geçtikçe\nKendimizi unutarak\nKim gösterir bana nasıl olunmalı?\nAnlaşılmak için\nBağırmamak için burada\nKim gösterir bana nasıl olunmalı?\nBiri olmak için\nDuyabilmek için kendimi",
+      "segments": [
+        "Duruyorum salonumun ortasında\nHerkesin karşısında\nAynı cümle girip çıkıyo'\nDefalarca kulağımdan\nBenim olmayan da benden alınınca\nUyuşuyor cesaretim\nElim kolum bağlanıyo'\nDuvarların arkasında",
+        "Kim gösterir bana nasıl olunmalı?\nAnlaşılmak için\nBağırmamak için burada\nKim gösterir bana nasıl olunmalı?\nBiri olmak için\nDuyabilmek için kendimi\nDönüp duran, kendini yiyen\nBu düzenin sancısıyla",
+        "Büyüyoruz gün geçtikçe\nKendimizi unutarak\nKim gösterir bana nasıl olunmalı?\nAnlaşılmak için\nBağırmamak için burada\nKim gösterir bana nasıl olunmalı?\nBiri olmak için\nDuyabilmek için kendimi"
+      ],
+      "word_count": 77,
+      "segment_count": 3
+    },
+    {
+      "id": "24_bir_yolu_yok_mu",
+      "title": "Bir Yolu Yok Mu",
+      "content": "Laflar uğultu gibi\nSırtımdan yukarı çıkar\nBilmem hangisi benim\nHangisi değiştirir beni\nBir çok sebep var\nHepsini kaybetmek için\nDüşündükçe aynı yere\nBakıyor boş gözlerim\nBir yolu yok mu?\nKaybetmeden kendimi savrulmanın\nBir yolu yok mu?\nSıyrılıp dalgalara karışmanın\nBir yolu yok mu?\nTek bir renge sığmamanın\nBir yolu yok mu?\nYok mu\nYok mu\nYok mu\nKopamıyorum asla\nKurduğum duvarlardan\nDokunsan da bana\nBen başka bir yerdeyim\nBinlerce yol var\nKendimi kaybetmek için\nBu kaygı çağında\nCesur bir dünya için\nBir yolu yok mu?\nBir yolu yok mu?\nBir yolu yok mu?\nBir yolu yok mu?\nKaybetmeden kendimi savrulmanın\nBir yolu yok mu?\nSıyrılıp dalgalara karışmanın\nBir yolu yok mu?\nTek bir renge sığmamanın\nBir yolu yok mu?\nYok mu\nYok mu\nYok mu",
+      "segments": [
+        "Laflar uğultu gibi\nSırtımdan yukarı çıkar\nBilmem hangisi benim\nHangisi değiştirir beni\nBir çok sebep var\nHepsini kaybetmek için\nDüşündükçe aynı yere\nBakıyor boş gözlerim\nBir yolu yok mu?",
+        "Kaybetmeden kendimi savrulmanın\nBir yolu yok mu?\nSıyrılıp dalgalara karışmanın\nBir yolu yok mu?\nTek bir renge sığmamanın\nBir yolu yok mu?\nYok mu\nYok mu\nYok mu\nKopamıyorum asla\nKurduğum duvarlardan",
+        "Dokunsan da bana\nBen başka bir yerdeyim\nBinlerce yol var\nKendimi kaybetmek için\nBu kaygı çağında\nCesur bir dünya için\nBir yolu yok mu?\nBir yolu yok mu?\nBir yolu yok mu?\nBir yolu yok mu?",
+        "Kaybetmeden kendimi savrulmanın\nBir yolu yok mu?\nSıyrılıp dalgalara karışmanın\nBir yolu yok mu?\nTek bir renge sığmamanın\nBir yolu yok mu?\nYok mu\nYok mu\nYok mu"
+      ],
+      "word_count": 125,
+      "segment_count": 4
+    },
+    {
+      "id": "25_modern_zamanlar",
+      "title": "Modern Zamanlar",
+      "content": "Uzun bi' yol var\nÖnümde yürüdüğüm\nKendimi ararken\nArkamda bıraktığım\nBi' vakit de çekip gider\nUnuturuz olanları\nBir bir gün geçerken\nYeniden uyanırken\nTekrarı yok bunun, umudumu kapmaya\nGelen binaların yanında düşünürken\nBuldum bu yolları, unuturuz olanları\nBi' radyodan dinlerdik modern zamanları\nTekrarı yok bunun, umudumu kapmaya\nGelen binaların yanında düşünürken\nBuldum bu yolları, unuturuz olanları\nBi' radyodan dinlerdik modern zamanları\nModern zamanları",
+      "segments": [
+        "Uzun bi' yol var\nÖnümde yürüdüğüm\nKendimi ararken\nArkamda bıraktığım\nBi' vakit de çekip gider\nUnuturuz olanları\nBir bir gün geçerken\nYeniden uyanırken\nTekrarı yok bunun, umudumu kapmaya",
+        "Gelen binaların yanında düşünürken\nBuldum bu yolları, unuturuz olanları\nBi' radyodan dinlerdik modern zamanları\nTekrarı yok bunun, umudumu kapmaya\nGelen binaların yanında düşünürken",
+        "Buldum bu yolları, unuturuz olanları\nBi' radyodan dinlerdik modern zamanları\nModern zamanları"
+      ],
+      "word_count": 63,
+      "segment_count": 3
+    },
+    {
+      "id": "26_adimlar",
+      "title": "Adimlar",
+      "content": "Gözleri kapadıkça birer birer artar\nHiçliğin ortasında teker teker adımlar\nZamanla, arar bulur\nYavaşça, kaybolur\nKaçtıkça, her biri\nAklımdan savrulur\nUnutmak için yaşadığın her şey\nGün gelecek soruları soracak\nBittiğinde başlayacak er geç\nOlabilecek olacak er geç\nHiçliğin tam ortasında doğmak\nDurmayacak zamanı yutarken\nGözlerinle görüntüyü eğmek\nİmge kendi kendine çarparken\nKafamın içine giren çizgi\nBaşladı ve bitti\nYine dönecek\nBaşa sarıp hiçti\nHissiyatın ismi\nYaşamın ta kendisi yanıp sönecek\nYine bütün kapıların ardındaki\nSeçimleri kopyala ve yaşa inadına günün aynılaşacak\nİşine geleni tüket işine geleni yaşa\nArzuların kaça yine zaman geçecek\nBölüm sonu canavarı yolu yarıladı\nKime göre neye göre yaşam karar verecek\nDüşüncenin ucundaki uçuruma düşüne kadar\nUyuduğu uykudan uyanamayacak\nDurmayan bir makinenin içinde yaşam\nHer geçen gün bizzat kendisini edecek\nİstemeyi bırakana kadar bütün arzuların seni yaşatacak ama bir gün bitecek\nZamanla, arar bulur\nYavaşça, kaybolur\nKaçtıkça, her biri\nAklımdan savrulur",
+      "segments": [
+        "Gözleri kapadıkça birer birer artar\nHiçliğin ortasında teker teker adımlar\nZamanla, arar bulur\nYavaşça, kaybolur\nKaçtıkça, her biri\nAklımdan savrulur\nUnutmak için yaşadığın her şey",
+        "Gün gelecek soruları soracak\nBittiğinde başlayacak er geç\nOlabilecek olacak er geç\nHiçliğin tam ortasında doğmak\nDurmayacak zamanı yutarken\nGözlerinle görüntüyü eğmek\nİmge kendi kendine çarparken",
+        "Kafamın içine giren çizgi\nBaşladı ve bitti\nYine dönecek\nBaşa sarıp hiçti\nHissiyatın ismi\nYaşamın ta kendisi yanıp sönecek\nYine bütün kapıların ardındaki",
+        "Seçimleri kopyala ve yaşa inadına günün aynılaşacak\nİşine geleni tüket işine geleni yaşa\nArzuların kaça yine zaman geçecek\nBölüm sonu canavarı yolu yarıladı\nKime göre neye göre yaşam karar verecek",
+        "Düşüncenin ucundaki uçuruma düşüne kadar\nUyuduğu uykudan uyanamayacak\nDurmayan bir makinenin içinde yaşam\nHer geçen gün bizzat kendisini edecek",
+        "İstemeyi bırakana kadar bütün arzuların seni yaşatacak ama bir gün bitecek\nZamanla, arar bulur\nYavaşça, kaybolur\nKaçtıkça, her biri\nAklımdan savrulur"
+      ],
+      "word_count": 144,
+      "segment_count": 6
+    },
+    {
+      "id": "27_canavar",
+      "title": "Canavar",
+      "content": "Sen\nNerede buldun ki elinde tutacaksın\nKendini (Vazgeç sadece)\nSen\nNe zaman gördün ki kör olmaktan korktun\nHarbiden (Vazgeç sadece)\nCaddeler akar, güneşler batar\nGözünün önünden insanlar geçer\nNe yaparsan yap eninde sonunda\nSenle birlikte herkes vazgeçer\nKaçsan bile ne önemi var\nSeni arıyorlar ve de bulacaklar\nSonuçta aynada bir surat var\nSeni izliyor her gün bi inatla\nHerkesi yenip bi' sana yenildim\nBöylesini nasıl bilebilirdim\nEriyorum pençelerinde\nVur, kır, dağıt hadi bir dene\nHerkesi yenip bi' sana yenildim\nBöylesini nasıl bilebilirdim\nEriyorum pençelerinde\nVur, kır, dağıt hadi bir dene\nUnutsan herkesi bile bile adımlar üzerinden geçer hadi bir dene\nTanıdığın her şeye bu açıdan bak ya da geçmişi yak kaç kaç bin sene\nBir akşam üstünde gelecek sana kalabalık reddi olmayan teklifle\nKabul etmek etmekten başka şansın yok ihtiyacın yok kelimelere\nSoruların cevabını veremeden tüketerek\nİşine gelebilecek betimlemelere\nGüvenerek gülümserken tam içinde panik atak geçir\nYelkovanı çevir düşmeden yere\nMerdiveni çıkana dek bi' kaç adım atamadan\nVazgeç basitçe, kocaman bi hata\nKendine baktığın fotoğrafta gözlerini ara\nBu bir drama\nHerkesi yenip bi' sana yenildim\nBöylesini nasıl bilebilirdim\nEriyorum pençelerinde\nVur, kır, dağıt hadi bir dene\nHerkesi yenip bi' sana yenildim\nBöylesini nasıl bilebilirdim\nEriyorum pençelerinde\nVur, kır, dağıt hadi bir dene\nKaçmaktan başka şansın\nOlsa da yapamazsın\n(Vazgeç sadece)\nGerçeği görsen bile (Hadi bi' dene)\nBenden kurtulamazsın",
+      "segments": [
+        "Sen\nNerede buldun ki elinde tutacaksın\nKendini (Vazgeç sadece)\nSen\nNe zaman gördün ki kör olmaktan korktun\nHarbiden (Vazgeç sadece)\nCaddeler akar, güneşler batar\nGözünün önünden insanlar geçer",
+        "Ne yaparsan yap eninde sonunda\nSenle birlikte herkes vazgeçer\nKaçsan bile ne önemi var\nSeni arıyorlar ve de bulacaklar\nSonuçta aynada bir surat var\nSeni izliyor her gün bi inatla",
+        "Herkesi yenip bi' sana yenildim\nBöylesini nasıl bilebilirdim\nEriyorum pençelerinde\nVur, kır, dağıt hadi bir dene\nHerkesi yenip bi' sana yenildim\nBöylesini nasıl bilebilirdim\nEriyorum pençelerinde",
+        "Vur, kır, dağıt hadi bir dene\nUnutsan herkesi bile bile adımlar üzerinden geçer hadi bir dene\nTanıdığın her şeye bu açıdan bak ya da geçmişi yak kaç kaç bin sene",
+        "Bir akşam üstünde gelecek sana kalabalık reddi olmayan teklifle\nKabul etmek etmekten başka şansın yok ihtiyacın yok kelimelere\nSoruların cevabını veremeden tüketerek\nİşine gelebilecek betimlemelere",
+        "Güvenerek gülümserken tam içinde panik atak geçir\nYelkovanı çevir düşmeden yere\nMerdiveni çıkana dek bi' kaç adım atamadan\nVazgeç basitçe, kocaman bi hata\nKendine baktığın fotoğrafta gözlerini ara",
+        "Bu bir drama\nHerkesi yenip bi' sana yenildim\nBöylesini nasıl bilebilirdim\nEriyorum pençelerinde\nVur, kır, dağıt hadi bir dene\nHerkesi yenip bi' sana yenildim\nBöylesini nasıl bilebilirdim",
+        "Eriyorum pençelerinde\nVur, kır, dağıt hadi bir dene\nKaçmaktan başka şansın\nOlsa da yapamazsın\n(Vazgeç sadece)\nGerçeği görsen bile (Hadi bi' dene)\nBenden kurtulamazsın"
+      ],
+      "word_count": 218,
+      "segment_count": 8
+    },
+    {
+      "id": "28_uyan_dibe_inen_aydinlanir",
+      "title": "Uyan Dibe Inen Aydinlanir",
+      "content": "Bir merdiven buldum\nÇıkmak için oldum\nSizden biri\nGün gelir ben de unutur muyum\nSizler gibi\nKapat gözünü bak tam tersine\nBu ilk değil son değil korkma öyle\nBir iz kalır kendini hatırlatır\nDibe inen aydınlanır!\nUyan, burası yuvan\nUyan, burası yuvan\nUyan, uyan, uyan\nBurası yuvan\nUyan, uyan, uyan\nBurası yuvan\nDöndüm dolaştım\nGeldim yine aynı yere\nKaçtım savaştım\nBilmeden benden gölgelerle\nKapat gözünü bak tam tersine\nBu ilk değil son değil korkma öyle\nBir iz kalır kendini hatırlatır\nDibe inen aydınlanır!\nUyan, burası yuvan\nUyan, burası yuvan\nUyan, uyan, uyan\nBurası yuvan\nUyan, uyan, uyan\nBurası yuvan",
+      "segments": [
+        "Bir merdiven buldum\nÇıkmak için oldum\nSizden biri\nGün gelir ben de unutur muyum\nSizler gibi\nKapat gözünü bak tam tersine\nBu ilk değil son değil korkma öyle\nBir iz kalır kendini hatırlatır",
+        "Dibe inen aydınlanır!\nUyan, burası yuvan\nUyan, burası yuvan\nUyan, uyan, uyan\nBurası yuvan\nUyan, uyan, uyan\nBurası yuvan\nDöndüm dolaştım\nGeldim yine aynı yere\nKaçtım savaştım\nBilmeden benden gölgelerle",
+        "Kapat gözünü bak tam tersine\nBu ilk değil son değil korkma öyle\nBir iz kalır kendini hatırlatır\nDibe inen aydınlanır!\nUyan, burası yuvan\nUyan, burası yuvan\nUyan, uyan, uyan\nBurası yuvan",
+        "Uyan, uyan, uyan\nBurası yuvan"
+      ],
+      "word_count": 99,
+      "segment_count": 4
+    },
+    {
+      "id": "29_dans_illuzyon",
+      "title": "Dans Illuzyon",
+      "content": "İlginç, di mi\nNasıl bir karşılaşma\nGeçmişinizin gizli köşelerini açığa çıkarabiliyor\nAnılarınızı, hatta kişiliğinizi\nTüm kimliğinizi yeniden düşünmeye itiyor\nDeğişim kaçınılmazdır\nHepiniz bilmelisiniz ki değişim\nVarolmanın bir parçasıdır\nBazıları bunu reddeder\nAnıları beyninde sağa sola çarparken direnmek ister\nBelki bir yamaçtan aşağı inmeyi\nDerin sulara dalmayı, ışıkların sönmesini\n\"Karanlığı\" değişimin bir parçası olarak görmez\nDeğişimi durdurmaya çalışan\nBir \"illüzyona\" sarılır\nDeğişimi kabul etmenin yolu\nOnun içine dalmak\nOnunla birlikte hareket etmek ve\n\"Dansına katılmaktır\"",
+      "segments": [
+        "İlginç, di mi\nNasıl bir karşılaşma\nGeçmişinizin gizli köşelerini açığa çıkarabiliyor\nAnılarınızı, hatta kişiliğinizi\nTüm kimliğinizi yeniden düşünmeye itiyor\nDeğişim kaçınılmazdır",
+        "Hepiniz bilmelisiniz ki değişim\nVarolmanın bir parçasıdır\nBazıları bunu reddeder\nAnıları beyninde sağa sola çarparken direnmek ister\nBelki bir yamaçtan aşağı inmeyi",
+        "Derin sulara dalmayı, ışıkların sönmesini\n\"Karanlığı\" değişimin bir parçası olarak görmez\nDeğişimi durdurmaya çalışan\nBir \"illüzyona\" sarılır\nDeğişimi kabul etmenin yolu\nOnun içine dalmak",
+        "Onunla birlikte hareket etmek ve\n\"Dansına katılmaktır\""
+      ],
+      "word_count": 74,
+      "segment_count": 4
+    }
+  ]
+}

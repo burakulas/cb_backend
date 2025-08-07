@@ -7,21 +7,23 @@ from flask_cors import CORS, cross_origin
 app = Flask(__name__)
 CORS(app)
 
-@app.route("/chat", methods=["POST", "OPTIONS"])
-@cross_origin()
-
+# Move these global variables to the top of the file
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
 MODEL = "llama3-70b-8192"
-
-import json  # make sure this is at the top of your file
 
 def load_lyrics_context():
     with open("lyrics.json", "r", encoding="utf-8") as f:
         data = json.load(f)
     all_lyrics = [song["content"] for song in data["songs"]]
-    return "\n\n".join(all_lyrics[:10])  # use only top 10 to reduce token load
+    return "\n\n".join(all_lyrics[:10])
 
+@app.route("/chat", methods=["POST", "OPTIONS"])
+@cross_origin()
 def chat():
+    """
+    Handles chat requests by sending a user message and contextual lyrics
+    to the Groq API and returning the AI's response.
+    """
     user_message = request.json.get("message")
     print("Received message:", user_message)
 
@@ -67,11 +69,10 @@ def chat():
         print("Error parsing Groq response:", e)
         return jsonify({"reply": "[Backend error]"})
 
-
 @app.route("/", methods=["GET"])
 def home():
     return "Chatbot backend is running!"
     
 if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 5000))  # use Render's assigned port
+    port = int(os.environ.get("PORT", 5000))
     app.run(host="0.0.0.0", port=port)

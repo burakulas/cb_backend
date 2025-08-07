@@ -7,6 +7,9 @@ import json
 app = Flask(__name__)
 CORS(app)
 
+@app.route("/chat", methods=["POST", "OPTIONS"])
+@cross_origin()
+
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
 MODEL = "llama3-70b-8192"
 

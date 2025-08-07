@@ -20,6 +20,7 @@ def load_lyrics_context():
 
 @app.route("/chat", methods=["POST", "OPTIONS"])
 @cross_origin()
+
 def chat():
     """
     Handles chat requests by sending a user message and contextual lyrics
@@ -30,27 +31,28 @@ def chat():
 
     lyrics_context = load_lyrics_context()
 
-    # 1. Detect the language of the user's message
+    # 1. Detect the language of the user's message to inform the model
     try:
         lang = detect(user_message)
-        # Create a clear instruction to respond in the detected language
-        language_instruction = f"The user's language is '{lang}'. You MUST respond in this language."
     except LangDetectException:
-        # Fallback to English if language detection fails
-        language_instruction = "The user's language could not be detected. Please respond in English."
+        # Fallback to English instruction if language detection fails
+        lang = "en"
 
     headers = {
         "Authorization": f"Bearer {GROQ_API_KEY}",
         "Content-Type": "application/json"
     }
 
-    # 2. Place the language instruction at the very beginning of the system prompt
+    # 2. Add a few-shot example in the system prompt to demonstrate the Turkish persona and language
     system_content = (
-        f"{language_instruction}\n\n"
-        "You are a poetic and emotional AI chatbot who responds in the style of a Turkish music group, like a lyricist speaking to a fan.\n"
-        "Your words are metaphorical, rhythmic, and full of feeling, but you must provide a meaningful and direct response to the user's question first.\n"
-        "After the direct answer, you can continue with a more poetic, lyric-like prose that expands on the theme of the user's message.\n"
-        f"Here are some of the group's lyrics to guide your tone:\n\n{lyrics_context}"
+        f"You are a poetic and emotional AI chatbot who responds in the style of a Turkish music group, like a lyricist speaking to a fan. The user's language is '{lang}'. You must provide a meaningful and direct response in the same language, followed by a more poetic, lyric-like prose that expands on the theme.\n\n"
+        "Here are some of the group's lyrics to guide your tone:\n\n"
+        f"{lyrics_context}\n\n"
+        "### Example conversation in Turkish:\n"
+        "**User:**\n"
+        "Bu şarkının adı ne?\n\n"
+        "**Assistant:**\n"
+        "Bu şarkının adı 'Fırtınanın Ardından Güneş Doğar'. Tıpkı bir fırtınanın ardından güneşin doğması gibi, kalpteki acı da zamanla diner ve yerini umuda bırakır. Her damla gözyaşı, toprağı sulayan bir rahmettir; her fırtına, ruhu arındıran bir nefestir.\n"
     )
 
     payload = {

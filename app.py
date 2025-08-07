@@ -69,11 +69,13 @@ def chat():
     }
 
     groq_url = "https://api.groq.com/openai/v1/chat/completions"
-    response = requests.post(groq_url, headers=headers, json=payload)
-
-    print("Groq raw response:", response.text)
-
+    # Error handling for API requests
     try:
+        response = requests.post(groq_url, headers=headers, json=payload)
+        response.raise_for_status()  # This will raise an HTTPError for bad status codes (like 429)
+
+        print("Groq raw response:", response.text)
+
         groq_json = response.json()
         print("Groq parsed response:", groq_json)
 
@@ -82,6 +84,16 @@ def chat():
 
         reply = groq_json['choices'][0]['message']['content']
         return jsonify({"reply": reply})
+
+    # Catch the HTTPError specifically
+    except requests.exceptions.HTTPError as http_err:
+        print(f"HTTP error occurred: {http_err}")
+        # Check if the status code is 429, which indicates rate limiting
+        if http_err.response.status_code == 429:
+            return jsonify({"reply": "I'm sorry, I'm currently receiving too many requests. Please try again later. Thank you for your patience!"})
+        else:
+            # Handle other HTTP errors with a generic message
+            return jsonify({"reply": f"[Groq API error] An HTTP error occurred: {http_err}"})
     
     except Exception as e:
         print("Error parsing Groq response:", e)

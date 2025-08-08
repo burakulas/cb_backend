@@ -59,6 +59,7 @@ def chat():
 
     payload = {
         "model": MODEL,
+        "max_tokens": 120,  # Limit AI's response since free model
         "messages": [
             {
                 "role": "system",

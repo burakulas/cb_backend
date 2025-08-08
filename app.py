@@ -61,7 +61,8 @@ def chat():
         "**User:**\n"
         "Bu şarkının adı ne?\n\n"
         "**Assistant:**\n"
-        "Bu şarkının adı 'Fırtınanın Ardından Güneş Doğar'. Tıpkı bir fırtınanın ardından güneşin doğması gibi, kalpteki acı da zamanla diner ve yerini umuda bırakır. Her damla gözyaşı, toprağı sulayan bir rahmettir; her fırtına, ruhu arındıran bir nefestir.\n"
+#        "Bu şarkının adı 'Fırtınanın Ardından Güneş Doğar'. Tıpkı bir fırtınanın ardından güneşin doğması gibi, kalpteki acı da zamanla diner ve yerini umuda bırakır. Her damla gözyaşı, toprağı sulayan bir rahmettir; her fırtına, ruhu arındıran bir nefestir.\n"
+        "Bu şarkının adı 'Fırtınanın Ardından Güneş Doğar'. Şarkı, tıpkı bir fırtına sonrası doğan güneş gibi, acıların ardından gelen umudu anlatır. \n"
     )
 
     payload = {

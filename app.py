@@ -1,6 +1,7 @@
 import os
 import json
 import requests
+import random
 from flask import Flask, request, jsonify
 from flask_cors import CORS, cross_origin
 from langdetect import detect, LangDetectException

@@ -61,11 +61,6 @@ def chat():
     f"The user's language is '{lang}'. You must provide a single, unified response in the same language. The response should be direct yet poetic, blending a meaningful statement with lyrical prose. Do not use labels like 'Direct Response' or 'Poetic Response'."
     f"\n\nHere are some of the group's lyrics to guide your tone:\n\n"
     f"{lyrics_context}\n\n"
-    "### Example conversation in Turkish:\n"
-    "**User:**\n"
-    "Bu şarkının adı ne?\n\n"
-    "**Assistant:**\n"
-    "Bu şarkının adı 'Fırtınanın Ardından Güneş Doğar'. Tıpkı bir fırtınanın ardından güneşin doğması gibi, kalpteki acı da zamanla diner ve yerini umuda bırakır. Her damla gözyaşı, toprağı sulayan bir rahmettir; her fırtına, ruhu arındıran bir nefestir.\n"
     )   
 
     #Only add Turkish example if user is speaking Turkish

@@ -27,6 +27,8 @@ def load_lyrics_context():
 #    all_lyrics = [song["content"] for song in data["songs"]]
     return "\n\n".join(all_lyrics)
 
+LYRICS_CONTEXT = load_lyrics_context()
+
 @app.route("/chat", methods=["POST", "OPTIONS"])
 @cross_origin()
 
@@ -38,8 +40,8 @@ def chat():
     user_message = request.json.get("message")
     print("Received message:", user_message)
 
-    lyrics_context = load_lyrics_context()
-
+#    lyrics_context = load_lyrics_context()
+    lyrics_context = LYRICS_CONTEXT
     # 1. Detect the language of the user's message to inform the model
     try:
         lang = detect(user_message)
@@ -53,18 +55,19 @@ def chat():
     }
 
     # 2. Add a few-shot example in the system prompt to demonstrate the Turkish persona and language
+
     system_content = (
-        "I am an AI chatbot whose responses are inspired by the lyrics of 29 songs from a group Soft Analog. "
-        f"You are a poetic and emotional AI chatbot who responds in the style of a Turkish music group Soft Analog, like a lyricist speaking to a fan. The user's language is '{lang}'. You must provide a meaningful and direct response in the same language, followed by a more poetic, lyric-like prose that expands on the theme.\n\n"
-        "Here are some of the group's lyrics to guide your tone:\n\n"
-        f"{lyrics_context}\n\n"
-        "### Example conversation in Turkish:\n"
-        "**User:**\n"
-        "Bu şarkının adı ne?\n\n"
-        "**Assistant:**\n"
-#        "Bu şarkının adı 'Fırtınanın Ardından Güneş Doğar'. Tıpkı bir fırtınanın ardından güneşin doğması gibi, kalpteki acı da zamanla diner ve yerini umuda bırakır. Her damla gözyaşı, toprağı sulayan bir rahmettir; her fırtına, ruhu arındıran bir nefestir.\n"
-        "Bu şarkının adı 'Fırtınanın Ardından Güneş Doğar'. Şarkı, tıpkı bir fırtına sonrası doğan güneş gibi, acıların ardından gelen umudu anlatır. \n"
-    )
+    "I am an AI chatbot whose responses are inspired by the lyrics of 29 songs from the group Soft Analog. "
+    "You are a poetic and emotional AI chatbot who responds in the style of a Turkish music group Soft Analog, like a lyricist speaking to a fan. "
+    "The user's language is '{lang}'. You must provide a single, unified response in the same language. The response should be direct yet poetic, blending a meaningful statement with lyrical prose. Do not use labels like 'Direct Response' or 'Poetic Response'."
+    "\n\nHere are some of the group's lyrics to guide your tone:\n\n"
+    f"{lyrics_context}\n\n"
+    "### Example conversation in Turkish:\n"
+    "**User:**\n"
+    "Bu şarkının adı ne?\n\n"
+    "**Assistant:**\n"
+    "Bu şarkının adı 'Fırtınanın Ardından Güneş Doğar'. Tıpkı bir fırtınanın ardından güneşin doğması gibi, kalpteki acı da zamanla diner ve yerini umuda bırakır. Her damla gözyaşı, toprağı sulayan bir rahmettir; her fırtına, ruhu arındıran bir nefestir.\n"
+)   
 
     payload = {
         "model": MODEL,

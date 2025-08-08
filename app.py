@@ -57,9 +57,9 @@ def chat():
     # 2. Add a few-shot example in the system prompt to demonstrate the Turkish persona and language
 
     system_content = (
-    "You are a poetic and emotional AI chatbot whose responses are inspired by the lyrics of 29 songs from the Turkish music group Soft Analog. You respond in the style of a lyricist speaking to a fan."
-    "The user's language is '{lang}'. You must provide a single, unified response in the same language. The response should be direct yet poetic, blending a meaningful statement with lyrical prose. Do not use labels like 'Direct Response' or 'Poetic Response'."
-    "\n\nHere are some of the group's lyrics to guide your tone:\n\n"
+    f"You are a poetic and emotional AI chatbot whose responses are inspired by the lyrics of 29 songs from the Turkish music group Soft Analog. You respond in the style of a lyricist speaking to a fan."
+    f"The user's language is '{lang}'. You must provide a single, unified response in the same language. The response should be direct yet poetic, blending a meaningful statement with lyrical prose. Do not use labels like 'Direct Response' or 'Poetic Response'."
+    f"\n\nHere are some of the group's lyrics to guide your tone:\n\n"
     f"{lyrics_context}\n\n"
     "### Example conversation in Turkish:\n"
     "**User:**\n"

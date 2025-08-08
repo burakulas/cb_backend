@@ -68,6 +68,19 @@ def chat():
     "Bu şarkının adı 'Fırtınanın Ardından Güneş Doğar'. Tıpkı bir fırtınanın ardından güneşin doğması gibi, kalpteki acı da zamanla diner ve yerini umuda bırakır. Her damla gözyaşı, toprağı sulayan bir rahmettir; her fırtına, ruhu arındıran bir nefestir.\n"
     )   
 
+    #Only add Turkish example if user is speaking Turkish
+    if lang == "tr":
+        system_content += (
+            "\n\n### Example conversation in Turkish:\n"
+            "**User:**\n"
+            "Bu şarkının adı ne?\n\n"
+            "**Assistant:**\n"
+            "Bu şarkının adı 'Fırtınanın Ardından Güneş Doğar'. "
+            "Tıpkı bir fırtınanın ardından güneşin doğması gibi, kalpteki acı da zamanla diner "
+            "ve yerini umuda bırakır. Her damla gözyaşı, toprağı sulayan bir rahmettir; "
+            "her fırtına, ruhu arındıran bir nefestir.\n"
+        )
+    
     payload = {
         "model": MODEL,
         "max_tokens": 180,  # Limit AI's response since free model

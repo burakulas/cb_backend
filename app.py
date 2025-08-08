@@ -67,7 +67,7 @@ def chat():
     "Bu şarkının adı ne?\n\n"
     "**Assistant:**\n"
     "Bu şarkının adı 'Fırtınanın Ardından Güneş Doğar'. Tıpkı bir fırtınanın ardından güneşin doğması gibi, kalpteki acı da zamanla diner ve yerini umuda bırakır. Her damla gözyaşı, toprağı sulayan bir rahmettir; her fırtına, ruhu arındıran bir nefestir.\n"
-)   
+    )   
 
     payload = {
         "model": MODEL,

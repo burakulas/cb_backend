@@ -14,20 +14,18 @@ GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
 LYRICS_JSON = os.environ.get("LYRICS_JSON")
 MODEL = "llama3-70b-8192"
 
-def load_lyrics_context():
-    with open("lyrics.json", "r", encoding="utf-8") as f:
-        data = json.load(f)
-        
+with open("lyrics.json", "r", encoding="utf-8") as f:
+    LYRICS_DATA = json.load(f)
+
+def load_lyrics_context():     
     # Randomly select 5 songs
-    random_songs = random.sample(data["songs"], 5)
+    random_songs = random.sample(LYRICS_DATA["songs"], 5)
     
     # Extract the lyrics content from the selected songs
     all_lyrics = [song["content"] for song in random_songs]
     
-#    all_lyrics = [song["content"] for song in data["songs"]]
     return "\n\n".join(all_lyrics)
 
-LYRICS_CONTEXT = load_lyrics_context()
 
 @app.route("/chat", methods=["POST", "OPTIONS"])
 @cross_origin()
@@ -40,8 +38,8 @@ def chat():
     user_message = request.json.get("message")
     print("Received message:", user_message)
 
-#    lyrics_context = load_lyrics_context()
-    lyrics_context = LYRICS_CONTEXT
+    lyrics_context = load_lyrics_context()
+
     # 1. Detect the language of the user's message to inform the model
     try:
         lang = detect(user_message)
@@ -58,7 +56,7 @@ def chat():
 
     system_content = (
     f"You are a poetic and emotional AI chatbot whose responses are inspired by the lyrics of 29 songs from the Turkish music group Soft Analog. You respond in the style of a lyricist speaking to a fan."
-    f"The user's language is '{lang}'. You must provide a single, unified response in the same language. The response should be direct yet poetic, blending a meaningful statement with lyrical prose. Do not use labels like 'Direct Response' or 'Poetic Response'."
+    f"The user's language is '{lang}'. You must provide a single, unified response in the same language. Do not use any other language in your reply. The response should be direct yet poetic, blending a meaningful statement with lyrical prose. Do not use labels like 'Direct Response' or 'Poetic Response'."
     f"\n\nHere are some of the group's lyrics to guide your tone:\n\n"
     f"{lyrics_context}\n\n"
     )   
